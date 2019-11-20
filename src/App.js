@@ -22,6 +22,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Memory Game: Tribute to the Chihuahua</Title>
+        <h1>Click on a Chihuahua to earn points, but don't click any Chihuahua more than once!!</h1>
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
