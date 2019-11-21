@@ -1,17 +1,17 @@
 .title {
   width: 100%;
   text-align: center;
-  font-size: 3rem;
-  text-decoration: underline;
+  font-size: 60px;
   color: lightseagreen;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
+  font-family: fantasy;
+  font-weight: bolder;
 }
 
-.h1 {
+h1 {
   width: 100%;
   text-align: center;
-  font-size: 3rem;
-  text-decoration: underline;
-  color: darkblue;
-  margin-bottom: 50px;
+  font-size: 30px;
+  color: rgb(82, 139, 175);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
